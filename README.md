@@ -1,3 +1,12 @@
+## Information Output
+- All tasks were completed in the main project Vuture.CodingTest
+- Two test classes were completed for task 1 and 2. Both tests were created for these too.
+- Both tests for tasks were passed
+- Due to time constraint I was unable to complete tests for task 3.
+- Please note: All the tasks were completed with me learning the language as I completed it. (Never coded in c# before)
+
+:-)
+
 ## General Information
 
 - Please take as much time as you need.

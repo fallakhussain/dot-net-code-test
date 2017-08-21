@@ -41,7 +41,7 @@ namespace Vuture.CodingTest.Tests
                 //increment the counter when e is found in c
                 if (c == letter) _count++;
             }
-            count = _count;
+            count = _count
         }
     }
 

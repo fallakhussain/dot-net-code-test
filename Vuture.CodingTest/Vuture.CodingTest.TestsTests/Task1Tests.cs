@@ -24,6 +24,14 @@ namespace Vuture.CodingTest.Tests.Tests
             Assert.AreEqual(5, _task1.count);
         }
 
+        [TestMethod()]
+        public void checkPalindromeTest()
+        {
+            string sentence = "God saved Eva’s dog";
+            Task2 _task2 = new Task2(sentence);
 
+            _task2.checkPalindrome();
+            Assert.AreEqual(true, _task2.isPalindome);
+        }
     }
 }
